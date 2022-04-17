@@ -1,0 +1,4 @@
+rootProject.name = 'netology-core-hw4.2-gradle'
+include 'db'
+include 'api'
+include 'service'
